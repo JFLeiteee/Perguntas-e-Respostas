@@ -135,3 +135,10 @@ aside a {
     transition: background-color 150ms ease-in;
     z-index: -1;
 }
+
+.result {
+    width: 49rem;
+    background-color: #2AABBC;
+    padding: 0.5em;
+    border-radius: 5px;
+}
